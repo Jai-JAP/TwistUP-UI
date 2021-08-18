@@ -9,6 +9,7 @@ git clone https://github.com/phoenixbyrd/TwistUP-UI
 ## To download to ~/patcher
 ```
 gio trash ~/patcher
+
 git clone https://github.com/phoenixbyrd/TwistUP-UI patcher
 ```
 ## Enter directory:
